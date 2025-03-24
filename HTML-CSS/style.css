@@ -1,0 +1,32 @@
+/* /* body{
+    background-color: rgb(0, 219, 201);
+    color: aliceblue;
+} */
+
+/* td{
+    border: 2px solid black;
+} */
+/* 
+p{
+    background-color: blue;
+}
+
+a{
+    background-color: rgb(0, 0, 0);
+}
+div{
+    background-color: yellow;
+}
+
+span{
+    background-color: aquamarine;
+} */ 
+
+.FirstClass{
+    background-color: brown;
+}
+
+#newid{
+    background-color: aqua;
+
+}
